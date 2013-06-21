@@ -6,8 +6,8 @@ require 'adder/version'
 Gem::Specification.new do |spec|
   spec.name          = "adder"
   spec.version       = Adder::VERSION
-  spec.authors       = ["amritdeep"]
-  spec.email         = ["amritdeepdhungana@hotmail.com"]
+  spec.authors       = "amritdeep"
+  spec.email         = "amritdeepdhungana@hotmail.com"
   spec.description   = %q{this is my first ruby gem}
   spec.summary       = %q{to add simple two number}
   spec.homepage      = ""
